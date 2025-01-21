@@ -1,4 +1,4 @@
-🎮 #Jogo do Número Secreto
+#🎮 Jogo do Número Secreto
 
 Bem-vindo ao Jogo do Número Secreto! 🎉 Este é um jogo interativo de adivinhação em que você precisa descobrir o número secreto gerado aleatoriamente entre 1 e 10. O jogo vai te dar dicas sobre se o número secreto é maior ou menor que o valor informado. Boa sorte! 🍀
 
